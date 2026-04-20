@@ -1,0 +1,22 @@
+Notes document
+
+Notes
+- 2 separate neural networks
+    - one for eigenvalues
+    - pass this into to find eigenfunctions
+- Build upwards from the ground state
+    - then tune to each individual groundstate
+- Currently they have to stop training for excited states, since the NN wants to keep getting lower
+    - There should be physical conditions to impose here
+        - ex: dot product of GS and 1st excited state = 0 
+        - ex: dot product of 2nd excited w GS and 1st excited is 0
+- Enforcing normalization and boundary condition 
+    - system is more constrained
+- They also gave the best error function given their analysis 
+    - Some sort of mean of sum of squares average
+- Also talked about how to evaluate solutions
+    - This sort of evaluation is good for trial examples
+    - It can also be how we write error functions for crystals
+
+Sources
+- arxiv 2407.20669

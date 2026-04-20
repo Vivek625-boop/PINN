@@ -1,0 +1,11 @@
+4/19 
+- Read paper on QM 
+- Vivek learned more QM 
+
+- Next tasks
+    - We should implement their simplest example
+    - We should also try an improvement by implementing orthogonality
+
+- To start 
+    - In the examples folder, let's find code that exists and learn how it works in and out
+    - let's generalize to harder systems
