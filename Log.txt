@@ -9,3 +9,11 @@
 - To start 
     - In the examples folder, let's find code that exists and learn how it works in and out
     - let's generalize to harder systems
+
+6/14
+- Vivek has gone through some examples and explained them to me
+- Next steps
+    - Implement code example online and make it work on the Github repository 
+        - put it into a folder labelled example 
+    - I want you to solve d_x d_x y = a y 
+    - Then solve d_x d_x y_1 = a y_2 and d_x d_x y_2 = b y_1
